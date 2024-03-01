@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MeKotlin5.6</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="post" />
+    <string name="put" />
+    <string name="path" />
+    <string name="delete" />
+    <string name="posts">post</string>
+    <string name="puts">put</string>
+    <string name="paths">path</string>
+    <string name="deletes">delete</string>
+</resources>

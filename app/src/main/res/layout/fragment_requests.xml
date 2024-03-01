@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".ui.fragments.RequestsFragment">
+
+    <Button
+        android:id="@+id/btnPost"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/posts"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/btnPut"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/puts"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/btnPath"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/paths"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/btnDelete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/deletes"
+        android:textSize="30sp" />
+
+</LinearLayout>
